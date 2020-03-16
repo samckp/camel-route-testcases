@@ -11,4 +11,5 @@ public class CamelRouteTestApplication {
 		SpringApplication.run(CamelRouteTestApplication.class, args);
 	}
 
+
 }
